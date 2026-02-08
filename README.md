@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://media1.tenor.com/m/xsICn9T81LcAAAAC/roy-leops.gif" width="600" alt="Hi "/>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on something Cool<br>👯 I’m looking to collaborate on Full-stack projects <br>🌱 These days I’m focused on: React, Java<br>⚡ Fun fact Big fan of games & anime — they spark my creativity!
 
